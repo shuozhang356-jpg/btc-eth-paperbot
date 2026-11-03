@@ -11,8 +11,8 @@
     }
   },
   "last_candle": {
-    "BTCUSDT": "1793718900000",
-    "ETHUSDT": "1793718900000"
+    "BTCUSDT": "1793722500000",
+    "ETHUSDT": "1793722500000"
   },
   "trades": [
     {
@@ -35,15 +35,15 @@
   "created_at": "2026-10-31T23:18:23.952421+00:00",
   "daily_start_equity": 10000.0,
   "daily_date": "2026-10-31",
-  "updated_at": "2026-11-03T15:23:01.212433+00:00",
+  "updated_at": "2026-11-03T16:21:10.364277+00:00",
   "last_prices": {
-    "BTCUSDT": 77316.01,
-    "ETHUSDT": 2286.06
+    "BTCUSDT": 77557.85,
+    "ETHUSDT": 2291.62
   },
   "last_signals": [
-    "BTCUSDT: HOLD RSI=53.61",
-    "ETHUSDT: HOLD RSI=55.21"
+    "BTCUSDT: HOLD RSI=56.58",
+    "ETHUSDT: HOLD RSI=48.05"
   ],
-  "equity": 10037.1491,
-  "total_return_pct": 0.3715
+  "equity": 10051.1427,
+  "total_return_pct": 0.5114
 }
