@@ -1,9 +1,9 @@
 {
-  "cash": 7395.899392832038,
+  "cash": 4946.011546088424,
   "positions": {
     "ETHUSDT": {
-      "qty": 0.0,
-      "avg_price": 0.0
+      "qty": 1.2141460500099848,
+      "avg_price": 2016.777885
     },
     "BTCUSDT": {
       "qty": 0.03341731498519799,
@@ -11,8 +11,8 @@
     }
   },
   "last_candle": {
-    "BTCUSDT": "1794496800000",
-    "ETHUSDT": "1794496800000"
+    "BTCUSDT": "1794500700000",
+    "ETHUSDT": "1794500700000"
   },
   "trades": [
     {
@@ -102,20 +102,28 @@
       "price": 73736.239695,
       "qty": 0.03341731498519799,
       "fee": 1.2326498988053398
+    },
+    {
+      "time": "2026-11-12T16:33:55.617751+00:00",
+      "symbol": "ETHUSDT",
+      "side": "BUY",
+      "price": 2016.777885,
+      "qty": 1.2141460500099848,
+      "fee": 1.2249439233718067
     }
   ],
   "created_at": "2026-10-31T23:18:23.952421+00:00",
   "daily_start_equity": 10000.0,
   "daily_date": "2026-10-31",
-  "updated_at": "2026-11-12T15:28:34.669505+00:00",
+  "updated_at": "2026-11-12T16:33:55.617782+00:00",
   "last_prices": {
-    "BTCUSDT": 71400.0,
-    "ETHUSDT": 2002.34
+    "BTCUSDT": 71928.34,
+    "ETHUSDT": 2015.77
   },
   "last_signals": [
-    "BTCUSDT: HOLD RSI=30.77",
-    "ETHUSDT: HOLD RSI=45.34"
+    "BTCUSDT: HOLD RSI=61.96",
+    "ETHUSDT: \u6a21\u62df\u4e70\u5165"
   ],
-  "equity": 9781.8957,
-  "total_return_pct": -2.181
+  "equity": 9797.1027,
+  "total_return_pct": -2.029
 }
